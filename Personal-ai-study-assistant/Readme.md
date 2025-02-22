@@ -56,6 +56,9 @@ python main.py
 
 ## Project Demo
 A demo video showcasing the chatbot’s functionality, document retrieval, and AI responses will be uploaded to YouTube.
+Research Assistant Demo:
+https://youtu.be/A0adN2_fbMU
+
 
 ## Evaluation Metrics
 - **Accuracy of Information Retrieval**: Ensured by vector similarity search.
