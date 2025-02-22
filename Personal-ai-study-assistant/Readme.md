@@ -10,6 +10,8 @@ The **Personal AI Study Assistant** is an advanced chatbot that helps users anal
 - **Embedding Model for Semantic Search**: Uses `HuggingFaceEmbeddings` to create vector representations of text.
 - **Vector Database for Fast Retrieval**: Stores and retrieves document chunks using `ChromaDB`.
 - **LLM-Powered Responses**: Uses `ChatGroq` (Mixtral-8x7b-32768) to answer user queries based on research content.
+- **Streamlit-based UI**: A simple and interactive front-end built with Streamlit to facilitate seamless user interaction.
+- **Query Logging and Tracking**: Logs user queries and responses for further analysis and improvement.
 
 ## Setup Instructions
 ### 1. Clone the Repository
@@ -48,23 +50,19 @@ python main.py
 - **Embedding Model**: `sentence-transformers/all-MiniLM-L6-v2` (Hugging Face).
 - **Vector Database**: `ChromaDB`, storing embeddings for efficient retrieval.
 - **LLM for Querying**: `ChatGroq (Mixtral-8x7b-32768)` for intelligent research-based answers.
+- **UI Framework**: `Streamlit` for an easy-to-use interface.
 
 ## Usage
 - The application extracts and processes research papers into a vector database.
 - Users can input queries related to the research papers.
 - The chatbot responds with context-aware summaries and insights.
+- Responses are logged for future reference and improvement.
 
 ## Project Demo
 A demo video showcasing the chatbot’s functionality, document retrieval, and AI responses will be uploaded to YouTube.
 Research Assistant Demo:
-https://youtu.be/A0adN2_fbMU
+[YouTube Demo](https://youtu.be/A0adN2_fbMU)
 
-
-## Evaluation Metrics
-- **Accuracy of Information Retrieval**: Ensured by vector similarity search.
-- **Response Quality**: Evaluated via the Arize AI platform (if available).
-
----
+## Queries & Support
 For any queries, reach out via [GitHub Issues](https://github.com/yourusername/personal-ai-study-assistant/issues).
-
 
