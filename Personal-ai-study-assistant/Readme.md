@@ -68,17 +68,7 @@ Research Assistant Demo:
 For any queries, reach out via [GitHub Issues](https://github.com/yourusername/personal-ai-study-assistant/issues).
 
 ## About the Developer
-
 Name: Sravya Kamavarapu
-
-Role: Data Scientist transitioning into Generative AI
-
-Experience: 17 years in Oracle, data management, database development, and machine learning
-
 LinkedIn: linkedin.com/in/sravyakamavarapu
-
-Resume: 
-
 Email: sravya.kamavarapu@gmail.com
 
-Phone: +918374936162
