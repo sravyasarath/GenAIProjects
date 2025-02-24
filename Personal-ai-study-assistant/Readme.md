@@ -1,5 +1,6 @@
 # Personal AI Study Assistant
 
+
 ## Project Overview
 The **Personal AI Study Assistant** is an advanced chatbot that helps users analyze and summarize research papers. It leverages a **Retrieval-Augmented Generation (RAG)** pipeline with NLP techniques, vector databases, and a large language model (LLM) to provide insightful responses based on uploaded research papers.
 
@@ -66,3 +67,18 @@ Research Assistant Demo:
 ## Queries & Support
 For any queries, reach out via [GitHub Issues](https://github.com/yourusername/personal-ai-study-assistant/issues).
 
+## About the Developer
+
+Name: Sravya Kamavarapu
+
+Role: Data Scientist transitioning into Generative AI
+
+Experience: 17 years in Oracle, data management, database development, and machine learning
+
+LinkedIn: linkedin.com/in/sravyakamavarapu
+
+Resume: 
+
+Email: sravya.kamavarapu@gmail.com
+
+Phone: +918374936162
